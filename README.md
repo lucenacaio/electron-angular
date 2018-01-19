@@ -5,24 +5,25 @@ This project contains a empty project using Angular 4 and Electron Framework and
 # To Use
 To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
-# Clone this repository
+Clone this repository
 
 ```
 git clone https://github.com/lucenacaio/electron-angular.git
 ```
 
-# Go into the repository
+Go into the repository
 ```
 cd electron-angular
 ```
-# Install dependencies
+Install dependencies
 ```
 npm install
 ```
-# Run the app
+Run the app
 ```
 npm run electron-build
 ```
+
 Note: If you're using Linux Bash for Windows, see this guide or use node from the command prompt.
 
 ## Built With
