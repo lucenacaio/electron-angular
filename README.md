@@ -27,10 +27,10 @@ npm run electron-build
 Note: If you're using Linux Bash for Windows, see this guide or use node from the command prompt.
 
 ## Built With
-*[PhotonKit](http://photonkit.com/)
-*[Angular](https://angular.io/) 
-*[Electron](https://electronjs.org/)
-*[NodeJS](https://nodejs.org/en/)
+* [PhotonKit](http://photonkit.com/)
+* [Angular](https://angular.io/) 
+* [Electron](https://electronjs.org/)
+* [NodeJS](https://nodejs.org/en/)
 
 ## License
 
