@@ -1,27 +1,34 @@
-# AngularElectron
+# electron-angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+This project contains a empty project using Angular 4 and Electron Framework and PhotonKit
 
-## Development server
+# To Use
+To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Clone this repository
 
-## Code scaffolding
+```
+git clone https://github.com/lucenacaio/electron-angular.git
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Go into the repository
+```
+cd electron-angular
+```
+Install dependencies
+```
+npm install
+```
+Run the app
+```
+npm run electron-build
+```
 
-## Build
+Note: If you're using Linux Bash for Windows, see this guide or use node from the command prompt.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Built With
+* [PhotonKit](http://photonkit.com/)
+* [Angular](https://angular.io/) 
+* [Electron](https://electronjs.org/)
+* [NodeJS](https://nodejs.org/en/)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
